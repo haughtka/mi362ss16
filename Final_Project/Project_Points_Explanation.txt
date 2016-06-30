@@ -1,0 +1,19 @@
+Below is a list of the points that I incorporated into my final project:
+
+100 - Hosted on Heroku (Required) - https://secure-shore-24854.herokuapp.com/
+
+100 - Custom domain name (Required) – http://khaught.mooo.com
+
+100 - Instructor/discretionary – Up to you!
+
+300 - 4 complete HTML pages with content – index.html, about.html, photos.html, contact.html
+
+200 - Custom CSS or Bootstrap for design (all pages) – used Bootstrap templates (from startbootstrap.com) and custom CSS pages
+
+50 - Use at least two custom images - photos.html contains over 100 original photographs
+
+50 - Integrate a JavaScript component – photos.html uses the functions found in js/photoLocations.js. These functions allow the user to filter photos by geographic location when a button is clicked.
+
+50 - Integrate non-Heroku 3rd party widget – The about.html page contains an Instagram widget courtesy of snapwidget.com.
+
+50 - Use a 3rd party font icon like FontAwesome – The contact.html page has FontAwesome social media icons.
